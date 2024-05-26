@@ -1,0 +1,62 @@
+* {
+    font-family: "Barlow", sans-serif;
+}
+
+.navbar {
+    background-color: rgb(184, 231, 12);
+    color: #ff0707;
+    font-weight: bold;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #333;
+}
+
+#cabecalho .nav .nav-link {
+    color: #23b685;
+}
+
+.navbar-toggler {
+    background-color: rgb(184, 231, 12);
+    padding: .2em;
+}
+
+.carousel-item img{
+    width: 100vw;
+}
+
+.section-title {
+    font-weight: 800;
+    font-style: italic;
+    color: #23b685;
+    font-size: 1.5em;
+    letter-spacing: .1em;
+
+}
+.nav-modelos .nav-link {
+    color: #23b685;
+}
+
+.nav-modelos .nav-link.active {
+    background-color: rgb(184, 231, 12);
+    color: #23b685;
+}
+
+.nav-modelos .nav-link:hover{
+    font-weight: bold;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+    color: #23b685;
+}
+
+#contato button {
+    background-color: rgb(184, 231, 12);
+    color: #23b685;
+}
